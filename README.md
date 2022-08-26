@@ -18,8 +18,7 @@
 ## Tech Stack
 
 ### 1. Flask
-![flask](https://user-images.githubusercontent.com/51821426/186838712-7ef784bc-f267-465b-abb0-787219b3ce9f.png )
-
+![Flask](https://user-images.githubusercontent.com/51821426/186850818-9cb2b8bd-a3f2-40fc-b6ae-e098645f7a4a.png)
 ### 2. MIND AR
 
 ![card-06cb9111a8e32627db6bfafc7aa22a4d](https://user-images.githubusercontent.com/51821426/186839462-74717a4d-17ab-49f7-8f09-5fa9e36db9d4.jpg)
