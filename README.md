@@ -2,7 +2,7 @@
 
 **Problem** : There are many people who hesitate to buy eyewear products online because they are unsure of how they will look.
 
-**Solution**: AR-VISION is an eyewear e-commerce portal. Customers can try the products on this portal in real time. With the help of this solution , customers can get a better experience.
+**Solution**: AR-VISION is an eyewear e-commerce portal. Customers can try the products on this portal in real time. With the help of this solution,customers can get a better experience.
 ## Screenshots
 
 ![1](https://user-images.githubusercontent.com/51821426/186832665-88a593b1-5232-4cd6-8aae-9aa9d07457dc.jpg)
