@@ -5,8 +5,8 @@
 **Solution**: AR-VISION is an eyewear e-commerce portal. Customers can try the products on this portal in real time. With the help of this solution,customers can get a better experience.
 ## Screenshots
 
-<img src="https://user-images.githubusercontent.com/51821426/186832665-88a593b1-5232-4cd6-8aae-9aa9d07457dc.jpg" width="600" height="600">
 
+![1](https://user-images.githubusercontent.com/51821426/186832893-910d49a4-6436-481b-b9c9-355d95d61bda.jpg)
 ![2](https://user-images.githubusercontent.com/51821426/186832893-910d49a4-6436-481b-b9c9-355d95d61bda.jpg)
 
 ![3](https://user-images.githubusercontent.com/51821426/186832877-1816dbd3-c2b9-4652-a005-51c72a8b5aca.jpg)
