@@ -6,12 +6,14 @@
 ## Screenshots
 
 
-![1](https://user-images.githubusercontent.com/51821426/186832893-910d49a4-6436-481b-b9c9-355d95d61bda.jpg)
+<img width="932" alt="12" src="https://user-images.githubusercontent.com/51821426/186932709-3879e291-c43a-41d0-9e57-f514adb9aef6.PNG">
+
+
 ![2](https://user-images.githubusercontent.com/51821426/186832893-910d49a4-6436-481b-b9c9-355d95d61bda.jpg)
 
 ![3](https://user-images.githubusercontent.com/51821426/186832877-1816dbd3-c2b9-4652-a005-51c72a8b5aca.jpg)
 ## Demo
-Project demo click [here](https://www.youtube.com/watch?v=txNl89BhU)
+Project demo click [here](https://youtu.be/FyqPYGUzGEU)
 
 ## Tech Stack
 
